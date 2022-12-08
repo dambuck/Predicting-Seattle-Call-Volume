@@ -24,6 +24,6 @@ inference.py Do prediction on the test data. Predictions are saved to the output
 
 
 Files should be executed in the following order:
-1. preprocessing.py
+1. preprocessing.py   !!!Because of the upload limit, the Seattle dataset in not in this repository, hence skip preprocessing.py. On your local machine, put the Seattle data set into the input folder.  
 2. train_and_opt.py
 3. inference.py
